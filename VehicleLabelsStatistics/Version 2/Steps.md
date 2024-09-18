@@ -69,7 +69,7 @@ To implement an automatic photo labeling project on AWS Console using S3, Rekogn
 3. After a successful test, you can now upload images to S3, and labels will be automatically generated and stored in DynamoDB.
 4. If any issues arise during testing or actual operation, you can check the logs in Amazon CloudWatch.
 
----
+
 
 **Chinese:**
 
@@ -142,4 +142,3 @@ To implement an automatic photo labeling project on AWS Console using S3, Rekogn
 3. 测试成功后，你就可以通过 S3 上传图片来实现自动标签生成，并存储在 DynamoDB 中。
 4. 如果测试或实际运行中出现问题，可以前往 Amazon CloudWatch 查看 log。
 
----
