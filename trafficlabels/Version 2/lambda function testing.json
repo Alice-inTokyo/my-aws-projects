@@ -1,0 +1,14 @@
+{
+    "Records": [
+      {
+        "s3": {
+          "bucket": {
+            "name": "Replace to your Bucket name" 
+          },
+          "object": {
+            "key": "Replace to the picture you want to test.jpg"
+          }
+        }
+      }
+    ]
+  }
