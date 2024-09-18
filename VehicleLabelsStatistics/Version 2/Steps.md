@@ -16,7 +16,7 @@ To implement an automatic photo labeling project on AWS Console using S3, Rekogn
     - In the AWS Console, search for “DynamoDB” and click to access it.
 2. Create a table:
     - Click the “Create table” button.
-    - Enter a table name, e.g., `ITrafficLabels`.
+    - Enter a table name, e.g., `TrafficLabels`.
     - Set the primary key:
         - **Partition key**: `ImageName` (Type: String).
         - **Sort key**: `LabelName` (Type: String).
