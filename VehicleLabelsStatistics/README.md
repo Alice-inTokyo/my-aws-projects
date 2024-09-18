@@ -37,7 +37,9 @@ In the next few lessons, we'll be going through the following steps.
 1. **Final Result**
 
 This is what your project will look like, once built:
+
 ![alt text](image-1.png)
+
 ![alt text](image.png)
 **Version 2**
 
@@ -76,10 +78,9 @@ In the next few lessons, we'll be going through the following steps.
 
 This is what your project will look like, once built:
 
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/21bc8cba-42ef-4f88-87f5-0cf74d238728/e03759ad-3041-4d71-9d25-32e0fa286d01/image.png)
 
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/21bc8cba-42ef-4f88-87f5-0cf74d238728/a53916b9-e5f2-45b3-92fc-20344c70da02/image.png)
+![alt text](image-1.png)
 
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/21bc8cba-42ef-4f88-87f5-0cf74d238728/1e83924d-e716-4f69-9599-00d073cbd5c1/image.png)
+![alt text](image-2.png)
 
-
+![alt text](image-3.png)
