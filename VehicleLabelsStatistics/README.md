@@ -6,7 +6,9 @@ Before the DX (Digital Transformation) reform, the Ministry typically used manua
 
 Therefore, I propose using AWS Amazon Rekognition to efficiently, affordably, and flexibly solve the above issues.
 
+
 **Version 1**
+
 
 1. **Overview of Version 1 ☁️**
 
@@ -16,7 +18,7 @@ This version is suitable for individuals who are not very familiar with IT techn
 
 Disadvantage: Requires IT personnel to set up initially; provides limited information.
 
-1. **Steps to be performed 👩‍💻**
+2. **Steps to be performed 👩‍💻**
 
 In the next few lessons, we'll be going through the following steps.
 
@@ -25,22 +27,24 @@ In the next few lessons, we'll be going through the following steps.
 - Setting up AWS CLI
 - Creating and running Python script
 
-1. **Services Used 🛠**
+3. **Services Used 🛠**
 - Amazon S3: For storing the images in the process of generating labels.
 - Amazon Rekognition: To analyse images and generate image labels.
 - AWS CLI: Interacting with AWS services through command line interface(CLI).
 
-1. **Estimated Time & Cost ⚙️**
+4. **Estimated Time & Cost ⚙️**
 - This project is estimated to take about 2 hours.
 - Cost: Free (When using the AWS Free Tier)
 
-1. **Final Result**
+5. **Final Result**
 
 This is what your project will look like, once built:
 
 ![alt text](image-1.png)
 
 ![alt text](image.png)
+
+
 **Version 2**
 
 1. **Overview of Version 2 ☁️**
@@ -51,7 +55,7 @@ This version is suitable for individuals with an IT background who are familiar 
 
 Disadvantage: Requires some knowledge of IT and AWS operation methods.
 
-1. **Steps to be performed 👩‍💻**
+2. **Steps to be performed 👩‍💻**
 
 In the next few lessons, we'll be going through the following steps.
 
@@ -63,18 +67,18 @@ In the next few lessons, we'll be going through the following steps.
 - Uploading Images to S3 Bucket
 - Reviewing Results in DynamoDB
 
-1. **Services Used 🛠**
+3. **Services Used 🛠**
 - Amazon S3: For storing the images in the process of generating labels.
 - Amazon Rekognition: To analyse images and generate image labels.
 - Amazon Lambda: Triggers image analysis and coordinates between S3 and Rekognition.
 - Amazon DynamoDB: Stores image labels, names, and confidence scores for analysis.
 - Amazon CloudWatch: Monitors and logs the entire process for troubleshooting and performance tracking.
 
-1. **Estimated Time & Cost ⚙️**
+4. **Estimated Time & Cost ⚙️**
 - This project is estimated to take about 1 hour.
 - Cost: Free (When using the AWS Free Tier)
 
-1. **Final Result**
+5. **Final Result**
 
 This is what your project will look like, once built:
 
