@@ -73,6 +73,8 @@ To implement an automatic photo labeling project on AWS Console using S3, Rekogn
 
 **Chinese:**
 
+---
+
 在AWS Console上实现照片自动标签生成项目，使用S3、Rekognition、Lambda 和 DynamoDB，可以按照以下步骤进行：
 
 **步骤 1: 创建 S3 Bucket**
